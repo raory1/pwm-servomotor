@@ -24,3 +24,6 @@ O ciclo de trabalho é definido conforme os seguintes valores:
 1470µs (90°) -> 7,35% Duty Cycle
 
 2400µs (180°) -> 12% Duty Cycle
+
+LINK VIDEO:
+https://youtu.be/V7uLCVVS6E8
